@@ -7,6 +7,13 @@
 # Better Pterodactyl
 Better Pterodactyl is a fork of pterodactyl with big and better features.
 
+## Better pterodactyl features:
+a-z to z-a sorter in the main page
+
+## Upcoming features:
+Announcements.
+Suggest more features in my discord [Demon Emperor NightmareGods#0001]
+
 ## Documentation
 Same as pterodactyl.
 
